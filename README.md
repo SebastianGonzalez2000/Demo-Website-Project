@@ -4,4 +4,5 @@ Website apllication using Python Library Flask where the user can write and save
 ### What I learned:
  - SQL Queries in Python and management of Data Bases
  - Web Development in HTML and JavaScript
- - 
+ - How to format and send HTTP requests from a client application to the Web Server, as well as relevant Internet Protocols
+ - Web Server design and management
